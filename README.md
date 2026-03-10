@@ -1,7 +1,7 @@
 ARITHMETIC LOGIC UNIT (ALU)
 COMPANY: CODTECH IT SOLUTIONS
-NAME: DEEPAK B C
-INTERN ID: CTISAR20
+NAME: Deepak B C
+INTERN ID: CTIS5957
 DOMAIN: VLSI
 DURATION: 4 Weeks
 MENTOR: Neela Santosh
@@ -37,3 +37,21 @@ Select	Operation
 011	OR
 100	NOT
 🖥 Simulation Output
+Waveform
+
+The waveform verifies correct ALU behavior for different input combinations.
+
+🔧 RTL Schematic
+RTL Design
+
+The RTL view shows the synthesized hardware structure generated from the Verilog design.
+
+📊 Synthesis Reports
+Power, timing, area, and gate-level reports are available in the Synthesis_Reports folder.
+
+📄 Project Report
+📥 Download Full Report:
+ALU  (PDF)
+
+✅ Results
+Simulation confirms correct execution of all operations. Synthesis analysis shows efficient hardware utilization with acceptable power and timing performance.
